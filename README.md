@@ -1,6 +1,6 @@
 # Neurolab Android App
 
-Repository of Android app for the Neurolab Open Hardware platform.
+Repository of the Android app for the Neurolab Open Hardware platform.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/04c9c47bfb934605ab15394dd2f260be)](https://app.codacy.com/app/fossasia/neurolab-android?utm_source=github.com&utm_medium=referral&utm_content=fossasia/neurolab-android&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://travis-ci.org/fossasia/neurolab-android.svg?branch=master)](https://travis-ci.org/fossasia/neurolab-android)
